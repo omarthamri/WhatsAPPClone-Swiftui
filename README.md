@@ -10,3 +10,4 @@ A WhatsApp clone implemented using swiftui and firebase. With the app you can:
 * ...and a lot more!
 ## Youtube Series
 * coming soon
+## Screenshots
