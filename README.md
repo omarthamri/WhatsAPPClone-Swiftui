@@ -9,7 +9,7 @@ A WhatsApp clone implemented using swiftui and firebase. With the app you can:
 * 🔄 Update your profile with ease
 * ...and a lot more!
 ## Youtube Series
-* Part 1 - Getting Started https://www.youtube.com/watch?v=pt2GluOyfMw
+* PART 1 - Getting Started https://www.youtube.com/watch?v=pt2GluOyfMw
 * PART 2 - Inbox View https://www.youtube.com/watch?v=v-JTA_Z0YG8
 * PART 3 - Inbox Row View https://www.youtube.com/watch?v=f4bwK3cM06M
 * PART 4 - Circular Profile Image View https://www.youtube.com/watch?v=buJGOUaXVEw
